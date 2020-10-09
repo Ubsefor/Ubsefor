@@ -1,8 +1,5 @@
 ### Hi there, welcome to my github! 👋
 
-<!--
-**Ubsefor/ubsefor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <a href="https://github.com/ubsefor">
 	<img width="32" align="left"
 		 alt="My GitHub profile"
@@ -24,7 +21,9 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubsefor&count_private=true&show_icons=true&bg_color=30,e96443,904e95&theme=synthwave&title_color=fff&text_color=fff&custom_title=Ubsefor%E2%80%99s+Depot">
+  <img src="https://github-readme-stats.vercel.app/api?username=ubsefor&count_private=true&show_icons=true&bg_color=30,e96443,904e95&theme=synthwave&title_color=fff&text_color=fff&line_height=22&custom_title=Ubsefor%E2%80%99s+Depot">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubsefor&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubsefor&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
