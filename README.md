@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubsefor&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubsefor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
 <a href="https://github.com/ubsefor">
