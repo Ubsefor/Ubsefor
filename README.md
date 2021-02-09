@@ -16,12 +16,6 @@
 
 <a href="https://t.me/ubsefor">
 	<img width="32" align="left"
-		 alt="My LinkedIn profile"
+		 alt="My Telegram"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">
-</a>
-
-<a href="https://twitter.com/ubsefor">
-	<img width="32" align="left"
-		 alt="My Twitter profile"
-		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
