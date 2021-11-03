@@ -9,13 +9,13 @@
 </p>
 
 <a href="https://github.com/ubsefor">
-	<img width="32" align="left"
+	<img width="50" align="left"
 		 alt="My GitHub profile"
 		 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png">
 </a>
 
 <a href="https://t.me/ubsefor">
-	<img width="32" align="left"
+	<img width="50" align="left"
 		 alt="My Telegram"
 		 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png">
 </a>
