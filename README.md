@@ -5,6 +5,10 @@
 </p>
 
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ubsefor&bg_color=140,130526,78237c&hide_border=true&title_color=fff&text_color=fff">
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubsefor&bg_color=140,130526,78237c&hide_border=true&title_color=fff&text_color=fff">
 </p>
 
