@@ -12,12 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubsefor&bg_color=140,130526,78237c&hide_border=true&title_color=fff&text_color=fff">
 </p>
 
-<a href="https://github.com/ubsefor">
-	<img width="50" align="left"
-		 alt="My GitHub profile"
-		 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png">
-</a>
-
 <a href="https://t.me/ubsefor">
 	<img width="50" align="left"
 		 alt="My Telegram"
