@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-five-theta-74.vercel.app/api/wakatime?username=ubsefor&bg_color=140,130526,78237c&hide_border=true&title_color=fff&text_color=fff">
+  <img src="https://github-readme-stats-five-theta-74.vercel.app/api/wakatime?username=ubsefor&bg_color=140,130526,78237c&hide_border=true&title_color=fff&text_color=fff&range=all_time">
 </p>
 
 <p align="left">
