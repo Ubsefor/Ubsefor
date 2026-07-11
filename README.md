@@ -12,5 +12,5 @@
 <a href="https://t.me/ubsefor">
 	<img width="50" align="left"
 		 alt="My Telegram"
-		 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png">
+		 src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Telegram_X_2019_Logo.svg">
 </a>
